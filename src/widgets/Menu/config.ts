@@ -10,11 +10,11 @@ export const links = [
     items: [
       {
         label: "Exchange",
-        href: "https://exchange.pancakeswap.finance",
+        href: "https://exchange.ufodefi.com",
       },
       {
         label: "Liquidity",
-        href: "https://exchange.pancakeswap.finance/#/pool",
+        href: "https://exchange.ufodefi.com/#/pool",
       },
     ],
   },
@@ -99,7 +99,7 @@ export const links = [
       // },
       {
         label: "Github",
-        href: "https://github.com/goosedefi/",
+        href: "https://github.com/ufodefi/",
       },
       {
         label: "Docs",
@@ -107,7 +107,7 @@ export const links = [
       },
       {
         label: "Blog",
-        href: "https://goosefinance.medium.com/",
+        href: "https://ufofinance.medium.com/",
       },
     ],
   },
@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/goosedefi",
+        href: "https://t.me/ufodefi",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -164,7 +164,7 @@ export const socials = [
       // },
       {
         label: "Announcements",
-        href: "https://t.me/goosefinanceann",
+        href: "https://t.me/ufodefi",
       },
       // {
       //   label: "Whale Alert",
@@ -175,7 +175,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/FinanceGoose",
+    href: "https://twitter.com/ufofinance",
   },
 ];
 
