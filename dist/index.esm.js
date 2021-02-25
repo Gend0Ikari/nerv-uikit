@@ -1860,7 +1860,7 @@ var Icon$O = function (props) {
 var Logo = function (_a) {
     var isDark = _a.isDark, props = __rest(_a, ["isDark"]);
     return (React.createElement(Svg, __assign({ viewBox: "0 0 205 26" }, props),
-        React.createElement("image", { width: "205", height: "26", href: isDark ? 'images/egg/LogoTextNewDark.png' : 'images/egg/LogoTextNewWhite.png' })));
+        React.createElement("image", { width: "205", height: "26", href: isDark ? "images/egg/LogoTextNewDark.png" : "images/egg/LogoTextNewWhite.png" })));
 };
 
 var Icon$P = function (props) {
@@ -1988,11 +1988,11 @@ var links = [
         items: [
             {
                 label: "Exchange",
-                href: "https://exchange.pancakeswap.finance",
+                href: "https://exchange.ufodefi.com",
             },
             {
                 label: "Liquidity",
-                href: "https://exchange.pancakeswap.finance/#/pool",
+                href: "https://exchange.ufodefi.com/#/pool",
             },
         ],
     },
@@ -2077,7 +2077,7 @@ var links = [
             // },
             {
                 label: "Github",
-                href: "https://github.com/goosedefi/",
+                href: "https://github.com/ufodefi/",
             },
             {
                 label: "Docs",
@@ -2085,7 +2085,7 @@ var links = [
             },
             {
                 label: "Blog",
-                href: "https://goosefinance.medium.com/",
+                href: "https://ufofinance.medium.com/",
             },
         ],
     },
@@ -2097,7 +2097,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/goosedefi",
+                href: "https://t.me/ufodefi",
             },
             // {
             //   label: "Bahasa Indonesia",
@@ -2141,14 +2141,14 @@ var socials = [
             // },
             {
                 label: "Announcements",
-                href: "https://t.me/goosefinanceann",
+                href: "https://t.me/ufodefi",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/FinanceGoose",
+        href: "https://twitter.com/ufofinance",
     },
 ];
 var MENU_HEIGHT = 64;
@@ -2731,7 +2731,7 @@ var templateObject_1$K;
 
 var baseColors = {
     failure: "#ED4B9E",
-    primary: "#aa8929",
+    primary: "#5abcf4",
     primaryBright: "#aa8929",
     primaryDark: "#aa8929",
     secondary: "#7645D9",
