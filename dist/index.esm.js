@@ -1949,8 +1949,7 @@ var IconModule = /*#__PURE__*/Object.freeze({
     TicketIcon: Icon$V,
     TradeIcon: Icon$W,
     TwitterIcon: Icon$X,
-    AuditIcon: Icon$Y,
-    UFOIcon: Icon$Z
+    AuditIcon: Icon$Y
 });
 
 var MenuButton = styled(Button)(templateObject_1$x || (templateObject_1$x = __makeTemplateObject(["\n  color: ", ";\n  padding: 0 8px;\n  border-radius: 8px;\n"], ["\n  color: ", ";\n  padding: 0 8px;\n  border-radius: 8px;\n"])), function (_a) {
@@ -1994,11 +1993,11 @@ var links = [
         items: [
             {
                 label: "Exchange",
-                href: "https://exchange.ufodefi.com",
+                href: "https://exchange.n3rv.org",
             },
             {
                 label: "Liquidity",
-                href: "https://exchange.ufodefi.com/#/pool",
+                href: "https://exchange.n3rv.org/#/pool",
             },
         ],
     },
@@ -2083,7 +2082,7 @@ var links = [
             // },
             {
                 label: "Github",
-                href: "https://github.com/ufodefi/",
+                href: "https://github.com/gend0ikari/",
             },
             {
                 label: "Docs",
@@ -2091,7 +2090,7 @@ var links = [
             },
             {
                 label: "Blog",
-                href: "https://ufofinance.medium.com/",
+                href: "https://n3rvhq.medium.com/",
             },
         ],
     },
@@ -2103,7 +2102,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/ufodefi",
+                href: "https://t.me/nerv_finance",
             },
             // {
             //   label: "Bahasa Indonesia",
@@ -2147,14 +2146,14 @@ var socials = [
             // },
             {
                 label: "Announcements",
-                href: "https://t.me/ufodefi",
+                href: "https://t.me/nerv_finance",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/ufofinance",
+        href: "https://twitter.com/financenerv",
     },
 ];
 var MENU_HEIGHT = 64;
